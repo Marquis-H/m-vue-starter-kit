@@ -20,5 +20,13 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Test
+```
+yarn test
+```
+
+### UI Or CSS
+element-plus、tailwindcss
+
+### Node Version
+v12.13.0
